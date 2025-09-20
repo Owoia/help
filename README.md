@@ -1,7 +1,7 @@
 # help
 
 
-obj_music_1 {
+#obj_music_1 {
 Create event {
 close = obj_closer_1
 close_x = close.x - x;
